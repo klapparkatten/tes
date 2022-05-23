@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:45:34.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="KGdLy-ei2KZ9cskeRhMP" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:46:24.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YQkNbOrRiJMrgsE6Fv8N" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5590" dy="1370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -978,22 +978,28 @@
           <mxGeometry x="-1490" y="1257" width="630" height="150" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1475" y="1268.16" width="210" height="99.84" as="geometry" />
+          <mxGeometry x="-1475" y="1268.16" width="423" height="58.84" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1266" y="1268.16" width="392" height="608.84" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1580" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#BAA29F;" vertex="1" parent="1">
+          <mxGeometry x="-657" y="1678" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1557" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-1255" y="1416" width="192" height="18" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1598" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1472" y="1333" width="418" height="313" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1558" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-1255" y="1437" width="192" height="23" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry width="418" height="313" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1560" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-1255" y="1464" width="192" height="27" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1557" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry x="11" y="36" width="192" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1574" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1255" y="1495" width="192" height="183" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1558" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry x="11" y="57" width="192" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1560" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry x="11" y="84" width="192" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1574" value="" style="group" vertex="1" connectable="0" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry x="11" y="115" width="192" height="183" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1561" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1574">
           <mxGeometry width="192" height="183" as="geometry" />
@@ -1022,11 +1028,8 @@
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1572" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rencana tanggal penyelesaian&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1574">
           <mxGeometry x="95.43529411764706" y="149" width="85.27058823529411" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1580" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#BAA29F;" vertex="1" parent="1">
-          <mxGeometry x="-657" y="1678" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1595" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1053" y="1415" width="194" height="266" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1595" value="" style="group" vertex="1" connectable="0" parent="liw1aRFWl_uPh4_dRd6R-1598">
+          <mxGeometry x="213" y="35" width="194" height="266" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1575" value="&lt;span style=&quot;background-color: initial;&quot;&gt;e.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penilaian kinerja tim audit oleh auditan;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1595">
           <mxGeometry width="192" height="17" as="geometry" />
