@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:20:18.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dR9pBAA8ZduZVufktaIz" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:20:44.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="eU52Yt06Y9uWMAb8DMSd" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5640" dy="1363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -965,8 +965,8 @@
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1545" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
           <mxGeometry width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry x="15" y="11.159999999999965" width="210" height="125.42" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="15" y="11.16" width="210" height="99.84" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
           <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
