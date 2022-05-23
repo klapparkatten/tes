@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:53:23.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="-4p_t4-6MgQDy_AcU0hd" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:54:12.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Eq9FFEKiCWWmcJQb1bTe" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="6846" dy="2117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6011" dy="1621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,24 +913,6 @@
         </mxCell>
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1600" value="(7) Sistem informasi dan komunikasi pengawasan SPI berupa situs dan aplikasi pengawasan SPI untuk menunjang dan mendukung pelaksanaan keg. &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi, dan monitoring&lt;/span&gt;&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontColor=#000000;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
           <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1603" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1720" y="650" width="163" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1590" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3. Mengkoordinasikan pelaksanaan kegiatan e-LHKPN UT yang meliputi:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
-          <mxGeometry width="163" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1594" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;1. mendaftarkan/&lt;br&gt;mengaktifkan akun wajib lapor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
-          <mxGeometry x="8.5" y="60.15999999999997" width="70" height="39.84" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1595" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;2. memberikan formulir e-LHKPN kpd Wajib Lapor (WL)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
-          <mxGeometry x="8.5" y="105.07999999999993" width="70" height="39.84" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1596" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;4. memastikan status pelaporan WL pada kantor KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
-          <mxGeometry x="88.5" y="105.07999999999993" width="70" height="39.84" as="geometry" />
-        </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1597" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;3. mengirimkan berkas laporan WL ke KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
-          <mxGeometry x="88.5" y="60.15999999999997" width="70" height="39.84" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1543" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1489" y="1006" width="630" height="150" as="geometry" />
