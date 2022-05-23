@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:35:30.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Pop94V-MLNfMJcJF3DXP" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T06:38:02.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="hhv62tNsBI3sdwRB6XNM" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="8750" dy="1791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9514" dy="2851" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1350" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;apa itu?&lt;/font&gt;&lt;br&gt;I. Pengawasan Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-988.25" y="-476.75" width="153.5" height="151.5" as="geometry" />
+          <mxGeometry x="-2953" y="-546.75" width="153.5" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="1351" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-858" y="508.75" width="170" height="170" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1358" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5. Keg. Pengawasan lain&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-788.5" y="-210" width="158.5" height="70" as="geometry" />
+          <mxGeometry x="-2753.25" y="-280" width="158.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1515" target="pPGM7KwS2ZChPyyvFrlL-1542" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -84,54 +84,54 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1368" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4. Pemantauan&lt;/font&gt;:&lt;br&gt;&lt;div&gt;proses penilaian kemajuan suatu program/kegiatan dalam mencapai tujuan yang telah ditetapkan secara berkesinambungan&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="-340" width="160" height="120" as="geometry" />
+          <mxGeometry x="-2754.75" y="-410" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1552" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;startArrow=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="xDNytKt1A_5V0aNAH69Z-1550" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1369" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3. Evaluasi&lt;/font&gt;:&amp;nbsp;&lt;br&gt;membandingkan hasil/prestasi suatu kegiatan dengan standar, rencana, atau norma&amp;nbsp;&lt;br&gt;&lt;br&gt;dan menentukan faktor yang mempengaruhi keberhasilan atau kegagalan" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-789.25" y="-498.5" width="158.5" height="148.5" as="geometry" />
+          <mxGeometry x="-2754" y="-568.5" width="158.5" height="148.5" as="geometry" />
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1545" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1370" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1370" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Reviu&lt;/font&gt;:&amp;nbsp;&lt;br&gt;penelaahan ulang bukti bukti suatu kegiatan untuk memastikan bahwa kegiatan telah dilaksanakan sesuai ketentuan&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="-610" width="160" height="100" as="geometry" />
+          <mxGeometry x="-2754.75" y="-680" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1544" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1371" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1371" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Audit&lt;/font&gt;:&lt;br&gt;proses identifikasi dan analisis masalah, pengujian, dan evaluasi bukti" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-788.5" y="-710" width="160" height="90" as="geometry" />
+          <mxGeometry x="-2753.25" y="-780" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1379" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1358" edge="1">
-          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
-            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
-            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1380" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1368" edge="1">
-          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
-            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
-            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1381" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1369" edge="1">
-          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
-            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
-            <mxPoint x="-780" y="-388.5" as="targetPoint" />
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2744.75" y="-458.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1382" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1370" edge="1">
-          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
-            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
-            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1383" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1371" edge="1">
-          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
-            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
-            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1603" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1390" target="xDNytKt1A_5V0aNAH69Z-1596" edge="1">
@@ -685,19 +685,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1542" value="Penyelenggaraan tugas dan fungsi organisasi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#A9C4EB;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="-443" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2474.75" y="-513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1550" value="terhadap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="-431.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2574.75" y="-501.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1554" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;endArrow=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1369" target="xDNytKt1A_5V0aNAH69Z-1550" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-644.25" y="-392.57779171894595" as="sourcePoint" />
-            <mxPoint x="-510" y="-400.9999999999998" as="targetPoint" />
+            <mxPoint x="-2609" y="-462.57779171894595" as="sourcePoint" />
+            <mxPoint x="-2474.75" y="-470.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xDNytKt1A_5V0aNAH69Z-1555" value="memberikan keyakinan yang memadai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-319" y="-443" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2283.75" y="-513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1571" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1391" target="ofFDjcfbIGw3xVgY4F3X-1546" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1065,6 +1065,18 @@
         </mxCell>
         <mxCell id="pPGM7KwS2ZChPyyvFrlL-1544" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;I. Penjelasan Istilah&lt;/span&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1736" y="-722" width="178" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pPGM7KwS2ZChPyyvFrlL-1546" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1736" y="-676" width="2046" height="679" as="geometry" />
+        </mxCell>
+        <mxCell id="pPGM7KwS2ZChPyyvFrlL-1547" value="(1) Merencakan, menyiapkan, melaksanakan keg. audit yg mencakup:&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1716" y="-647.75" width="270" height="236.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pPGM7KwS2ZChPyyvFrlL-1548" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1706" y="-530" width="170" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="pPGM7KwS2ZChPyyvFrlL-1549" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1698" y="-524" width="155" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
