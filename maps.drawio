@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:14:45.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="5e0rORH0ElR9hXVDaM81" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:16:36.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lZkw4BMSQkF0SBBFteuQ" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5833" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -932,56 +932,59 @@
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1597" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;3. mengirimkan berkas laporan WL ke KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
           <mxGeometry x="88.5" y="60.15999999999997" width="70" height="39.84" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1613" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1510" y="1450" width="650" height="296" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1543" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1489" y="1006" width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1614" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry width="650" height="296" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1605" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1615" value="1. SPI memanfaatkan teknologi informasi dan komunikasi dalam mengembangkan dan menerapkan sistem informasi pengawasan internal UT" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="16.5" y="7.719424460431655" width="253.5" height="66.81294964028777" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1622" value="&lt;div&gt;(2) Pemeliharaan website dilakukan berkala setiap satu minggu sekali oleh ICT SPI di bawah tanggung jawab &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bidang Organisasi, Sistem Pengawasan, Sistem Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="186" y="12.289999999999964" width="210" height="125.42" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1616" value="6. Pemeliharaan sistem informasi pengawasan dilakukan secara berkala oleh &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="460" y="9.753093525179944" width="173.5" height="138.41726618705036" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1624" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="16" y="10" width="163" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1617" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2. Sistem informasi pengawasan SPI dirancang, dibuat, diterapkan, dan dikembangkan secara berkelanjutan oleh suatu tim yang dikoordinasikan oleh &lt;/span&gt;&lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="16.5" y="82.34762589928062" width="253.5" height="119.95453237410072" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1625" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. &lt;b&gt;informasi mengenai profil SPI&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;sejarah, visi dan misi, kelembagaan, struktur dan organisasi SPI, serta tugas pokok dan fungsi)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="22.5" y="38.66000000000008" width="70" height="95.92" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1618" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3. Sistem informasi pengawasan dikembangkan untuk menunjang dan memudahkan dalam proses perencanaan, pelaksanaan, dan pelaporan hasil pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="16.5" y="210.8201438848921" width="253.5" height="76.66187050359713" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1626" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b. aturan yang berlaku&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="102.5" y="38.66000000000008" width="70" height="21.34" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1619" value="&lt;span style=&quot;background-color: initial;&quot;&gt;4. Perancangan dan penngembangan sistem informasi pengawasan mempertimbangkan segi keamanan, sumber daya yang ada, dan keefektifan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="280" y="7.453237410071942" width="170" height="99.02158273381295" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1627" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d. informasi aktual lain yang berkaitan dg kegiatan SPI&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="102.5" y="87.97000000000003" width="70" height="29.72" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1620" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5. Perancangan dan pengembangan sistem informasi dan komunikasi pengawasan dilakukan dengan cara menghimpun, menyimpan, dan mengelola data serta informasi berbasis komputer dan manual sehingga dapat menyediakan informasi keluaran yang bernilai atas kegiatan pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="280" y="112.86330935251799" width="170" height="174.61870503597123" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1628" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="liw1aRFWl_uPh4_dRd6R-1543" vertex="1">
+          <mxGeometry x="102.5" y="64" width="70" height="21.18" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1621" value="7. Sistem informasi dan komunikasi pengawasan SPI berupa situs dan aplikasi pengawasan SPI untuk menunjang dan mendukung pelaksanaan keg. &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi, dan monitoring&lt;/span&gt;&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
-          <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1542" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1543">
+          <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1605" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-1510" y="1010" width="650" height="150" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1544" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1479" y="1250" width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1622" value="&lt;div&gt;(2) Pemeliharaan website dilakukan berkala setiap satu minggu sekali oleh ICT SPI di bawah tanggung jawab Penanggung Jawab Bidang Organisasi, Sistem Pengawasan, Sistem Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1320" y="1022.29" width="210" height="125.42" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1545" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1624" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="1020" width="163" height="130" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;(2) Pemeliharaan website dilakukan berkala setiap satu minggu sekali oleh ICT SPI di bawah tanggung jawab Penanggung Jawab Bidang Organisasi, Sistem Pengawasan, Sistem Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="186" y="12.289999999999964" width="210" height="125.42" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1625" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. &lt;b&gt;informasi mengenai profil SPI&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;sejarah, visi dan misi, kelembagaan, struktur dan organisasi SPI, serta tugas pokok dan fungsi)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-1483.5" y="1048.66" width="70" height="95.92" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1547" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="16" y="10" width="163" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1626" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b. aturan yang berlaku&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-1403.5" y="1048.66" width="70" height="21.34" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1548" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. &lt;b&gt;informasi mengenai profil SPI&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;sejarah, visi dan misi, kelembagaan, struktur dan organisasi SPI, serta tugas pokok dan fungsi)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="22.5" y="38.66000000000008" width="70" height="95.92" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1627" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d. informasi aktual lain yang berkaitan dg kegiatan SPI&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-1403.5" y="1097.97" width="70" height="29.72" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1549" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b. aturan yang berlaku&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="102.5" y="38.66000000000008" width="70" height="21.34" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1628" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="-1403.5" y="1074" width="70" height="21.18" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1550" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d. informasi aktual lain yang berkaitan dg kegiatan SPI&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="102.5" y="87.97000000000003" width="70" height="29.72" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1542" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="1021.16" width="210" height="125.42" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1551" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="102.5" y="64" width="70" height="21.18" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
+          <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
