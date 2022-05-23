@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:10:22.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="sHPSsNw9KrJaPiQwh8Ia" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:14:23.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="aePlhx2FC00bZS59HErY" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5344" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5833" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,10 +959,10 @@
           <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
         </mxCell>
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1605" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-1510" y="1010" width="650" height="296" as="geometry" />
+          <mxGeometry x="-1510" y="1010" width="650" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1622" value="(2) Pemeliharaan website dilakukan secara berkala" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="1144.58" width="253.5" height="172.28" as="geometry" />
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1622" value="&lt;div&gt;(2) Pemeliharaan website dilakukan berkala setiap satu minggu sekali oleh ICT SPI di bawah tanggung jawab Penanggung Jawab Bidang Organisasi, Sistem Pengawasan, Sistem Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1320" y="1022.29" width="210" height="125.42" as="geometry" />
         </mxCell>
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1624" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1490" y="1020" width="163" height="130" as="geometry" />
@@ -978,6 +978,9 @@
         </mxCell>
         <mxCell id="ofFDjcfbIGw3xVgY4F3X-1628" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="-1403.5" y="1074" width="70" height="21.18" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1542" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="1021.16" width="210" height="125.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
