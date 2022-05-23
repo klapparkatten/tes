@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:26:07.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="43QUmEeoP_uDvbN3pNKA" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:27:45.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="nyVVb8dQD8sBdAIe7g0D" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5590" dy="1334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -959,24 +959,6 @@
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1542" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1543">
           <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1544" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1490" y="1257" width="630" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1545" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry width="630" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry x="15" y="11.16" width="210" height="99.84" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry x="406" y="11.16" width="210" height="608.84" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1557" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry x="417" y="166" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1558" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1544">
-          <mxGeometry x="417" y="213" width="70" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1547" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-816" y="1328" width="163" height="130" as="geometry" />
         </mxCell>
@@ -997,6 +979,27 @@
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1556" value="&lt;div&gt;(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;/div&gt;&lt;div&gt;deskripsi temuan (dilengkapi dengan fasilitas kode temuan untuk analisis data hasil temuan berdasarkan pengelompokan),&amp;nbsp;&lt;/div&gt;&lt;div&gt;kriteria/ persyaratan yang dilanggar,&amp;nbsp;&lt;/div&gt;&lt;div&gt;akar penyebab,&amp;nbsp;&lt;/div&gt;&lt;div&gt;akibat,&amp;nbsp;&lt;/div&gt;&lt;div&gt;rekomendasi,&amp;nbsp;&lt;/div&gt;&lt;div&gt;tanggapan auditan,&amp;nbsp;&lt;/div&gt;&lt;div&gt;rencana tindakan Ianjut perbaikan, dan&amp;nbsp;&lt;/div&gt;&lt;div&gt;rencana tanggal penyelesaian;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1734" y="1421" width="665" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1545" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="1257" width="630" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1475" y="1268.16" width="210" height="99.84" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1552" value="(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1084" y="1268.16" width="210" height="608.84" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1557" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1073" y="1423" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1558" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1073" y="1470" width="70" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1560" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-1073" y="1521" width="70" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1561" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-998" y="1423" width="148" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
