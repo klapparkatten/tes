@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:48:33.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="5rvM8AmmnDvbGQXBFkqK" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:52:58.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="JeedrBHeXLhNfZEMAgxv" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5590" dy="1370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5761" dy="1472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,7 +975,7 @@
           <mxGeometry x="-729.5" y="1382" width="70" height="21.18" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1545" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="1257" width="630" height="398" as="geometry" />
+          <mxGeometry x="-1490" y="1257" width="613" height="503" as="geometry" />
         </mxCell>
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1546" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1475" y="1268.16" width="423" height="58.84" as="geometry" />
@@ -1061,8 +1061,20 @@
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1589" value="&lt;span style=&quot;background-color: initial;&quot;&gt;n. Menyediakan data dan informasi untuk analisis statistik kegiatan audit.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="liw1aRFWl_uPh4_dRd6R-1595">
           <mxGeometry x="2" y="249" width="192" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1600" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;(3) Data dan informasi pada aplikasi pengawasan merupakan rahasia negara yang wajib dilindungi kerahasiaannya, oleh karena itu akses ke dalam aplikasi pengawasan bersifat terbatas.&amp;nbsp;&lt;/p&gt;&lt;p&gt;(4) Pemberian akses atas pemanfaatan aplikasi pengawasan merupakan kewenangan Ketua SPI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;(5) Ketua SPI dapat memberikan akses terhadap aplikasi pengawasan kepada auditor atau Tim Auditor SPI atau pihak lain yang sedang melakukan tugas audit atau tugas lain yang relevan di lingkungan UT.&amp;nbsp;&lt;/p&gt;&lt;p&gt;(6) Pihak-pihak yang ingin melakukan akses ke dalam aplikasi pengawasan di luar tugas sebagaimana dimaksud ayat (5) wajib mengajukan ijin secara tertulis kepada Ketua SPI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;(7) Pengembangan dan penyempurnaan sistem informasi &amp;amp; komunikasi pengawasan akan dilakukan secara berkelanjutan sesuai dengan perkembangan kebutuhan dan peningkatan kualitas pengawasan SPI.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1662" y="1678" width="423" height="516" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1601" value="&lt;div&gt;&lt;div&gt;(3) Data dan informasi pada aplikasi pengawasan merupakan rahasia negara yang wajib dilindungi kerahasiaannya, oleh karena itu akses ke dalam aplikasi pengawasan bersifat terbatas.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1477" y="1654" width="423" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1602" value="&lt;div&gt;(4) Pemberian akses atas pemanfaatan aplikasi pengawasan merupakan kewenangan Ketua SPI.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1477" y="1710" width="423" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1603" value="&lt;div&gt;(5) Ketua SPI dapat memberikan akses terhadap aplikasi pengawasan kepada auditor atau Tim Auditor SPI atau pihak lain yang sedang melakukan tugas audit atau tugas lain yang relevan di lingkungan UT.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1047" y="1351" width="154" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1604" value="&lt;div&gt;(6) Pihak-pihak yang ingin melakukan akses ke dalam aplikasi pengawasan di luar tugas sebagaimana dimaksud ayat (5) wajib mengajukan ijin secara tertulis kepada Ketua SPI&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1047" y="1499.84" width="154" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1605" value="&lt;div&gt;(7) Pengembangan dan penyempurnaan sistem informasi &amp;amp; komunikasi pengawasan akan dilakukan secara berkelanjutan sesuai dengan perkembangan kebutuhan dan peningkatan kualitas pengawasan SPI.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1047" y="1614.84" width="154" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
