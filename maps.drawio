@@ -1,1 +1,985 @@
-<mxfile host="Electron" modified="2022-05-23T04:01:15.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/18.0.6 Chrome/100.0.4896.143 Electron/18.2.3 Safari/537.36" etag="ZHngEk6bDxilkv9SrTfO" version="18.0.6" type="device"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:10:22.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="sHPSsNw9KrJaPiQwh8Ia" version="18.1.1" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="5344" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1350" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;apa itu?&lt;/font&gt;&lt;br&gt;I. Pengawasan Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-988.25" y="-476.75" width="153.5" height="151.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1351" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="-90" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1352" value="III. Sistem Informasi Pengawas Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="502.15999999999997" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1354" value="Bacteria" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2918.25" y="461.15999999999997" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1355" value="Fungi" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-3327.5" y="301.15999999999997" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1356" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-3143" y="412.15999999999997" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1548" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1358" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1358" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5. Keg. Pengawasan lain&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-788.5" y="-210" width="158.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;fontColor=#000000;" parent="1" source="1515" target="1350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1360" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;fontColor=#000000;" parent="1" source="1515" target="1351" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1361" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" parent="1" source="1515" target="1352" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2928.4212752391213" y="200.00190891830258" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1362" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" target="1353" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2948.1324685183126" y="220.20267046981476" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1363" style="endArrow=none;strokeWidth=6;strokeColor=#736CA8;html=1;" parent="1" target="1516" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3147.215602291868" y="261.3764596881193" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1364" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;startArrow=none;" parent="1" target="1354" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2991.6933850256846" y="250.00003055982611" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1365" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#F08705;html=1;" parent="1" target="1355" edge="1">
+          <mxGeometry x="-1986.5" y="28.659999999999997" width="100" height="100" as="geometry">
+            <mxPoint x="-3192.546395765129" y="239.51079320191653" as="sourcePoint" />
+            <mxPoint x="-1886.5" y="28.659999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1366" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" parent="1" target="1356" edge="1">
+          <mxGeometry x="-1986.5" y="28.659999999999997" width="100" height="100" as="geometry">
+            <mxPoint x="-3083" y="271.90999999999997" as="sourcePoint" />
+            <mxPoint x="-1886.5" y="28.659999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1553" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1368" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1368" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4. Pemantauan&lt;/font&gt;:&lt;br&gt;&lt;div&gt;proses penilaian kemajuan suatu program/kegiatan dalam mencapai tujuan yang telah ditetapkan secara berkesinambungan&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="-340" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1552" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;startArrow=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="xDNytKt1A_5V0aNAH69Z-1550" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1369" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3. Evaluasi&lt;/font&gt;:&amp;nbsp;&lt;br&gt;membandingkan hasil/prestasi suatu kegiatan dengan standar, rencana, atau norma&amp;nbsp;&lt;br&gt;&lt;br&gt;dan menentukan faktor yang mempengaruhi keberhasilan atau kegagalan" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-789.25" y="-498.5" width="158.5" height="148.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1545" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1370" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1370" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Reviu&lt;/font&gt;:&amp;nbsp;&lt;br&gt;penelaahan ulang bukti bukti suatu kegiatan untuk memastikan bahwa kegiatan telah dilaksanakan sesuai ketentuan&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="-610" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1544" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1371" target="xDNytKt1A_5V0aNAH69Z-1542" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1371" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Audit&lt;/font&gt;:&lt;br&gt;proses identifikasi dan analisis masalah, pengujian, dan evaluasi bukti" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-788.5" y="-710" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1379" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1358" edge="1">
+          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
+            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
+            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1380" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1368" edge="1">
+          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
+            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
+            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1381" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1369" edge="1">
+          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
+            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
+            <mxPoint x="-780" y="-388.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1382" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1370" edge="1">
+          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
+            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
+            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1383" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1350" target="1371" edge="1">
+          <mxGeometry x="-541.5" y="-436" width="100" height="100" as="geometry">
+            <mxPoint x="-541.5" y="-336" as="sourcePoint" />
+            <mxPoint x="-441.5" y="-436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1603" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1390" target="xDNytKt1A_5V0aNAH69Z-1596" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1390" value="PJ Wilayah" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-479.38" y="922.0000000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1572" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1392" target="xDNytKt1A_5V0aNAH69Z-1585" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1392" value="1. PJ Bid. Audit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-479.38" y="-300" width="139.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1572" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1393" target="xDNytKt1A_5V0aNAH69Z-1605" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1393" value="2. PJ Bid. Reviu, Monitoring, Evaluasi, dan Urusan LHKPN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-479.38" y="70" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1402" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1390" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
+            <mxPoint x="103.5" y="21.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-640" y="942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1403" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1391" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
+            <mxPoint x="103.5" y="21.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-610" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1404" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="1351" target="1392" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
+            <mxPoint x="103.5" y="21.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1405" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontColor=#000000;" parent="1" source="1351" target="1393" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
+            <mxPoint x="103.5" y="21.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-580" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1601" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F5AF58;strokeColor=#F08E81;strokeWidth=3;entryX=0.585;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1417" target="ofFDjcfbIGw3xVgY4F3X-1587" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1129" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1417" value="Penggunaan TIK dalam Sistem Pengawasan" style="rounded=1;fillColor=#F08E81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-979" y="547.16" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1428" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" parent="1" source="1352" target="1417" edge="1">
+          <mxGeometry x="-272.5" y="957.66" width="100" height="100" as="geometry">
+            <mxPoint x="-272.5" y="1057.6599999999999" as="sourcePoint" />
+            <mxPoint x="-172.5" y="957.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1435" value="Perch" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2668.5" y="413.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1436" value="Mackerel" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2638.5" y="343.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1437" value="Tuna" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2513.5" y="313.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1438" value="Shark" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2393.5" y="263.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1439" value="Whale" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2348.5" y="353.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1440" value="Bass" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2278.5" y="433.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1441" value="Eel" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2530" y="508.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1442" value="Oyster" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2470" y="413.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1443" value="Ray" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2688.5" y="497.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1444" value="Trout" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2268.5" y="562.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1445" value="Catfish" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2368.5" y="497.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1446" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1435" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1447" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1436" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1448" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1437" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1449" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1438" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1450" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1439" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1451" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1440" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1452" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1442" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1453" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1441" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1443" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1455" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1444" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1456" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1445" edge="1">
+          <mxGeometry x="-2242.5" y="80.16" width="100" height="100" as="geometry">
+            <mxPoint x="-2242.5" y="180.16" as="sourcePoint" />
+            <mxPoint x="-2142.5" y="80.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1457" value="Streptococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2732.5" y="589.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2737.5" y="658.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1459" value="Lactobacyllus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2577.5" y="616.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1460" value="Helicobacter" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2627.5" y="715.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1461" value="Bifidobacterium" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2727.5" y="773.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1462" value="Staphyllococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2827.5" y="713.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1463" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1460" edge="1">
+          <mxGeometry x="-1916.5" y="-301.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-1916.5" y="-201.34" as="sourcePoint" />
+            <mxPoint x="-1816.5" y="-301.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1464" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1461" edge="1">
+          <mxGeometry x="-1916.5" y="-301.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-1916.5" y="-201.34" as="sourcePoint" />
+            <mxPoint x="-1816.5" y="-301.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1465" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1458" edge="1">
+          <mxGeometry x="-1916.5" y="-301.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-1916.5" y="-201.34" as="sourcePoint" />
+            <mxPoint x="-1816.5" y="-301.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1466" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1462" edge="1">
+          <mxGeometry x="-1916.5" y="-301.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-1916.5" y="-201.34" as="sourcePoint" />
+            <mxPoint x="-1816.5" y="-301.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1467" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1457" edge="1">
+          <mxGeometry x="-1916.5" y="-301.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-1916.5" y="-201.34" as="sourcePoint" />
+            <mxPoint x="-1816.5" y="-301.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1468" value="Zygomycota" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3687.5" y="368.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1469" value="Script Writing" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3672.5" y="441.15999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1470" value="Ascomycota" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3697.5" y="506.15999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1471" value="Basidiomycota" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3671" y="581.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1472" value="Mushroom" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3717.5" y="638.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1473" value="Lichen" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3817.5" y="581.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1474" value="Bread Mold" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3897.5" y="521.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1475" value="Yeast" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3937.5" y="448.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1476" value="Zygospore" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3932.5" y="383.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1477" value="Truffle" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3872.5" y="318.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1478" value="Chytrid" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3656" y="303.65999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1479" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1478" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1480" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1468" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1481" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1469" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1482" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1470" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1483" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1471" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1484" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1472" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1485" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1473" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1486" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1474" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1487" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1475" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1488" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1476" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1489" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1477" edge="1">
+          <mxGeometry x="-1924" y="-158.84" width="100" height="100" as="geometry">
+            <mxPoint x="-1924" y="-58.84" as="sourcePoint" />
+            <mxPoint x="-1824" y="-158.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1490" value="Philadendron" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3002.5" y="678.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1491" value="Dahlia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3157.5" y="698.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1492" value="Petunia" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3202.5" y="738.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1493" value="Cactus" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3257.5" y="798.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1494" value="Tulip" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3277.5" y="853.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1495" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3262.5" y="918.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1496" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3227.5" y="981.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1497" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3157.5" y="1031.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1498" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3024" y="988.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1499" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3057.5" y="918.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1500" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2997.5" y="851.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1501" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-2977.5" y="755.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1490" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1504" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1491" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1505" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1492" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1506" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1493" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1507" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1494" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1508" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1495" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1509" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1496" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1510" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1497" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1511" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1498" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1512" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1499" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1513" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1500" edge="1">
+          <mxGeometry x="-1979" y="-146.34" width="100" height="100" as="geometry">
+            <mxPoint x="-1979" y="-46.34" as="sourcePoint" />
+            <mxPoint x="-1879" y="-146.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1515" value="Surat Rektor &lt;br&gt;821-2020&lt;br&gt;&lt;br&gt;Petunjuk Kerja Program Pengawasan SPI-UT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1120" y="53.25" width="409" height="416.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1516" value="Tree" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-3317.5" y="532.16" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1517" value="Organisation" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3785" y="813.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1518" value="Oak" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3677.5" y="753.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1519" value="Birch" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3537.5" y="763.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1520" value="Silverfern" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3472.5" y="833.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1521" value="Personal &#xa;Development" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3447.5" y="913.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1522" value="Pine" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3920" y="833.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1523" value="Lime" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3581" y="881.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1524" value="Chestnut" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3631" y="941.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1525" value="Beech" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3771" y="941.16" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1526" value="Poplar" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3845" y="1048.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1527" value="Willow" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3950" y="993.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1517" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1529" value="Acacia" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-3910" y="923.66" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1530" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1518" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1531" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1519" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1532" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1520" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1533" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1521" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1534" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1522" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1535" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1523" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1536" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1524" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1537" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1525" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1538" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1526" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1539" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1527" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1529" edge="1">
+          <mxGeometry x="-3746.5" y="-316.34000000000003" width="100" height="100" as="geometry">
+            <mxPoint x="-3746.5" y="-216.34" as="sourcePoint" />
+            <mxPoint x="-3646.5" y="-316.34000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1541" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1459" edge="1">
+          <mxGeometry x="-3341.5" y="-606.34" width="100" height="100" as="geometry">
+            <mxPoint x="-3341.5" y="-506.34000000000003" as="sourcePoint" />
+            <mxPoint x="-3241.5" y="-606.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1542" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#736CA8;strokeWidth=2;fillColor=#64bbe2;fontSize=20;fontColor=#23445D;" parent="1" source="1529" target="1529" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1556" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#D4E1F5;strokeWidth=2;fontColor=#000000;" parent="1" source="xDNytKt1A_5V0aNAH69Z-1542" target="xDNytKt1A_5V0aNAH69Z-1555" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1557" value="agar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="xDNytKt1A_5V0aNAH69Z-1556" vertex="1" connectable="0">
+          <mxGeometry x="-0.3817" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1542" value="Penyelenggaraan tugas dan fungsi organisasi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#A9C4EB;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="-443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1550" value="terhadap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="-431.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1554" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;endArrow=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" source="1369" target="xDNytKt1A_5V0aNAH69Z-1550" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-644.25" y="-392.57779171894595" as="sourcePoint" />
+            <mxPoint x="-510" y="-400.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1555" value="memberikan keyakinan yang memadai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#dae8fc;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-319" y="-443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1571" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" source="1391" target="ofFDjcfbIGw3xVgY4F3X-1546" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1391" value="3. PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM" style="rounded=1;fillColor=#F5AF58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="470" width="380" height="83.84" as="geometry" />
+        </mxCell>
+        <mxCell id="1353" value="4. Mekanisme Kerja" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2878.5" y="310.15999999999997" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1416" value="Website" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-979" y="958.6599999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1567" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" parent="1" source="1352" target="1416" edge="1">
+          <mxGeometry x="-272.5" y="957.66" width="100" height="100" as="geometry">
+            <mxPoint x="-773.5646680413456" y="1089.2738439657614" as="sourcePoint" />
+            <mxPoint x="1612.5" y="1190.1252915509722" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-770" y="979" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1568" value="Aplikasi" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-979" y="1389.9999999999998" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1569" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1352" target="xDNytKt1A_5V0aNAH69Z-1568" edge="1">
+          <mxGeometry x="-262.5" y="967.66" width="100" height="100" as="geometry">
+            <mxPoint x="-763.4999999999841" y="1096.1599999999999" as="sourcePoint" />
+            <mxPoint x="-603.5" y="1096.1599999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1601" value="" style="group;fontColor=#000000;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-479.38" y="970.84" width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1596" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" parent="xDNytKt1A_5V0aNAH69Z-1601" vertex="1">
+          <mxGeometry width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1597" value="1.&amp;nbsp;Membantu mempersiapkan bahan, data, dan informasi untuk pelaksanaan penyusunan PKA, perencanaan monitoring, dan perencanaan audit sesuai dengan wilayah tanggungjawabnya" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="xDNytKt1A_5V0aNAH69Z-1601" vertex="1">
+          <mxGeometry x="20" y="16.279999999999973" width="190" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1598" value="2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Membantu memantau dan merekapitulasi hasil kegiatan audit, monitoring, reviu, dan evalluasi sesuai dengan wilayah tanggungjawabnya.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="xDNytKt1A_5V0aNAH69Z-1601" vertex="1">
+          <mxGeometry x="20" y="139.02999999999997" width="190" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1599" value="4.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaksanakan tugas-tugas lain dari Ketua SPI.&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="xDNytKt1A_5V0aNAH69Z-1601" vertex="1">
+          <mxGeometry x="220" y="139.91" width="220" height="40.09" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1600" value="3.&amp;nbsp;Mengelola administrasi dan mendokumentasikan hasil kegiatan audit, monitoring, reviu, dan evaluasi sesuai dengan wilayah tanggungjawabnya, baik manual maupun melalui aplikasi pengawasan." style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="xDNytKt1A_5V0aNAH69Z-1601" vertex="1">
+          <mxGeometry x="220" y="18.16999999999996" width="220" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1544" value="" style="group;fontColor=#000000;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-479.38" y="136" width="650" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1605" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry width="650" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1606" value="(1) Merencanakan, mempersiapkan, dan melaksanakan kegiatan Bidang Reviu, Monitoring, dan Evaluasi yang meliputi:&lt;br&gt;&lt;ol style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RKA-KL&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reviu LapKeu UT&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monitoring daya serap anggaran dan realisasinya&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu Lap. Kinerja UT&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RKA unit UT dan unit SPI&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Evaluasi penyelenggaraan kelayakan program/prodi yang ditawarkan UT&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RBA UT&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reviu Siakunlap/aplikasi sejenis&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="16.5" y="7.25" width="253.5" height="192.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1610" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan standar dan instrumen untuk kegiatan, Reviu, Monitoring, dan Evaluasi&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="16.5" y="205.49" width="253.5" height="54.51" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1613" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3) Mengkoordinasikan pelaksanaan kegiatan e-LHKPN UT yang meliputi:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="281.5" y="10" width="163" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1615" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(5) Melaporkan kpd Ketua SPI seluruh hasil penyelenggaraan kegiatan Bidang Reviu, Monitoring, Evaluasi, dan Urusan LHKPN secara berkala&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="451" y="10" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1616" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(6) Melaksanakan tugas lain dari pimpinan SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="451" y="105" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1617" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Melaporkan hasil kegiatan pelaporan LHKPN UT kpd Ketua SPI secara bertahap&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="284.5" y="180" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1619" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;a. mendaftarkan/&lt;br&gt;mengaktifkan akun wajib lapor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="290" y="70.16" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1620" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;b. memberikan formulir e-LHKPN kpd Wajib Lapor (WL)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="290" y="115.07999999999998" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1621" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;d. memastikan status pelaporan WL pada kantor KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="370" y="115.07999999999998" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1622" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;c. mengirimkan berkas laporan WL ke KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1544" vertex="1">
+          <mxGeometry x="370" y="70.15999999999997" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1570" value="" style="group;fontColor=#000000;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-479.38" y="561.5" width="610" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1546" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry width="610" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1549" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Merencanakan, mempersiapkan, dan melaksanakan kegiatan yang berkaitan dengan Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan Sumber Daya Manusia (SDM) yang meliputi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="16.5" y="10" width="333.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1550" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan evaluasi dan monitoring seluruh kegiatan Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi Komunikasi Pengawasan, dan Pengcmbangan SDM.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="360" y="15" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1551" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaporkan kepada Ketua SPI seluruh hasil penyelenggaraan kegiatan di Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="360" y="111.82000000000005" width="230" height="88.18" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1553" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. Mengembangkan dan memutakhirkan standar operasi kerja organisasi SPI;&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="26" y="96" width="95" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1558" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan pedoman dan petunjuk kerja&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="26.620000000000005" y="138.91999999999996" width="95" height="34.08" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1559" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan uraian pekerjaan Unit Kerja&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="26.620000000000005" y="176.82000000000005" width="95" height="36.18" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1560" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menyusun istrumen evaluasi pekerjaan dan instrumen penilaian kinerja SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="26" y="216.65999999999997" width="95" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1561" value="&lt;span style=&quot;background-color: initial;&quot;&gt;e.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem informasi melalui website&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="125.62" y="96" width="95" height="29.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1562" value="&lt;span style=&quot;background-color: initial;&quot;&gt;f.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem audit menggunakan jaringan dan berbasis teknologi informasi;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="125.62" y="133.65999999999997" width="95" height="55.18" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1563" value="&lt;span style=&quot;background-color: initial;&quot;&gt;g.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem informasi manajemen serta sistem dokumentasi dan publikasi SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="125.62" y="192.65999999999997" width="95" height="55.18" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1564" value="&lt;span style=&quot;background-color: initial;&quot;&gt;h.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola dokumentasi dan publikasi kegiatan&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="229" y="96.41999999999996" width="111" height="27.58" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1566" value="&lt;span style=&quot;background-color: initial;&quot;&gt;k.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan perencanaan dan pelaksanaan peningkatan kualitas SDM dan auditor SPI.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="229" y="225.15999999999997" width="105.38" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1567" value="&lt;span style=&quot;background-color: initial;&quot;&gt;j.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bersama-bersama PJ Bidang Audit melakukan perekrutan dan seleksi auditor SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="229" y="176.15999999999997" width="105.38" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1568" value="&lt;span style=&quot;background-color: initial;&quot;&gt;i.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bersama-bersama PJ Bidang Audit merencanakan kebutuhan SDM dan kebutuhan auditor SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="229" y="129.15999999999997" width="105.38" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1569" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Melaksanakan tugas Iain dari pimpinan SPI&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1570" vertex="1">
+          <mxGeometry x="360" y="209.57000000000005" width="230" height="30.43" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1585" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="-252" width="920" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1570" value="(1) Merencakan, menyiapkan, melaksanakan keg. audit yg mencakup:&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="-234.75" width="270" height="236.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1574" value="(2) Menyusun instrumen audit" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-234.75" width="133.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1575" value="(3) Menyusun kerangka acuan kerja (term of reference)" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-189.25" width="133.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1576" value="(4) Melakukan proses rekrutmen dan seleksi calon auditor" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-134.25" width="133.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1577" value="(5)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan proses penetapan auditor SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-77" width="130" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1578" value="(6)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Mereviu kertas kerja dan laporan audit&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="-234.75" width="120" height="41.75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1579" value="(7) Mengkoordinasikan penyusunan laporan audit dan menyampaikan LHA,&amp;nbsp;rekomendasi perbaikan (management letter), dan tindak lanjut kpd pimpinan SPI" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="-186.38" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1580" value="(8)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan, pengecekan, dan pendampingan atas pelaksanaan tindak lanjut (corrective action) atas hasil audit internal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="85" y="-234.25" width="163" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1581" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(9) Audit internal (no.8):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kegiatan pemberian keyakinan (assurance activities) dan konsultasi (consulting activities) untuk meningkatkan kualitas operasional organisasi yang menjadi auditan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="85" y="-128" width="163" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1582" value="11.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaporkan seluruh pelaksanaan tugas dan tanggungjawabnya kepada Ketua SPI secara berkala&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="254" y="-148.25" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1583" value="&lt;span style=&quot;background-color: initial;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaksanakan tugas lain dari pimpinan SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="254" y="-72.25" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xDNytKt1A_5V0aNAH69Z-1584" value="10.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan atas pelaksanaan tindak lanjut temuan dan rekomendasi audit eksternal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="254" y="-233.25" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1573" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;a. &lt;b&gt;audit ketaatan &lt;/b&gt;(&lt;i&gt;compliance audit&lt;/i&gt;) terhadap ketentuan dan peraturan (&lt;i&gt;law and regulations&lt;/i&gt;)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="-188" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1576" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;b. &lt;b&gt;audit keuangan&lt;/b&gt; (&lt;i&gt;financial audit&lt;/i&gt;) atas pos tertentu u/ mendukung audit lap. keu&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="-152" width="170" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1577" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="-117" width="170" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1578" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;d. &lt;b&gt;audit sistem informasi manajemen&lt;/b&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-274" y="-188" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1579" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;e. &lt;b&gt;audit khusus&lt;/b&gt;, terutama atas instruksi Rektor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-274" y="-154" width="74" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1580" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;f. &lt;b&gt;audit pasif &lt;/b&gt;(&lt;i&gt;desk audit&lt;/i&gt;) terhadap laporan aktivitas manajemen&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-273.38" y="-117" width="73.38" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1583" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-442" y="-111" width="155" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1584" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;management audit&lt;/b&gt; u/ menilai pelaksanaan kegiatan manajemen dalam mencapai misi, tujuan, dan strategi yang ditetapkan serta tingkat operasional luar biasa yang diharapkan.&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-442" y="-71" width="155" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1602" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1509" y="614" width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1587" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1588" value="(1) SPI memanfaatkan teknologi informasi dan komunikasi dalam mengembangkan dan menerapkan sistem informasi pengawasan internal UT" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="16.5" y="7.719424460431655" width="253.5" height="66.81294964028777" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1599" value="(6) Pemeliharaan sistem informasi pengawasan dilakukan secara berkala oleh &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontColor=#000000;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="460" y="9.753093525179944" width="173.5" height="138.41726618705036" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1589" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2) Sistem informasi pengawasan SPI dirancang, dibuat, diterapkan, dan dikembangkan secara berkelanjutan oleh suatu tim yang dikoordinasikan oleh &lt;/span&gt;&lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="16.5" y="82.34762589928062" width="253.5" height="119.95453237410072" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1593" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3) Sistem informasi pengawasan dikembangkan untuk menunjang dan memudahkan dalam proses perencanaan, pelaksanaan, dan pelaporan hasil pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="16.5" y="210.8201438848921" width="253.5" height="76.66187050359713" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1591" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Perancangan dan penngembangan sistem informasi pengawasan mempertimbangkan segi keamanan, sumber daya yang ada, dan keefektifan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="280" y="7.453237410071942" width="170" height="99.02158273381295" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1592" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(5) Perancangan dan pengembangan sistem informasi dan komunikasi pengawasan dilakukan dengan cara menghimpun, menyimpan, dan mengelola data serta informasi berbasis komputer dan manual sehingga dapat menyediakan informasi keluaran yang bernilai atas kegiatan pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="280" y="112.86330935251799" width="170" height="174.61870503597123" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1600" value="(7) Sistem informasi dan komunikasi pengawasan SPI berupa situs dan aplikasi pengawasan SPI untuk menunjang dan mendukung pelaksanaan keg. &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi, dan monitoring&lt;/span&gt;&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontColor=#000000;" parent="ofFDjcfbIGw3xVgY4F3X-1602" vertex="1">
+          <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1603" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1720" y="650" width="163" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1590" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3. Mengkoordinasikan pelaksanaan kegiatan e-LHKPN UT yang meliputi:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
+          <mxGeometry width="163" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1594" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;1. mendaftarkan/&lt;br&gt;mengaktifkan akun wajib lapor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
+          <mxGeometry x="8.5" y="60.15999999999997" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1595" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;2. memberikan formulir e-LHKPN kpd Wajib Lapor (WL)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
+          <mxGeometry x="8.5" y="105.07999999999993" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1596" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;4. memastikan status pelaporan WL pada kantor KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
+          <mxGeometry x="88.5" y="105.07999999999993" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1597" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;3. mengirimkan berkas laporan WL ke KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="ofFDjcfbIGw3xVgY4F3X-1603" vertex="1">
+          <mxGeometry x="88.5" y="60.15999999999997" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1613" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1510" y="1450" width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1614" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1615" value="1. SPI memanfaatkan teknologi informasi dan komunikasi dalam mengembangkan dan menerapkan sistem informasi pengawasan internal UT" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="16.5" y="7.719424460431655" width="253.5" height="66.81294964028777" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1616" value="6. Pemeliharaan sistem informasi pengawasan dilakukan secara berkala oleh &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="460" y="9.753093525179944" width="173.5" height="138.41726618705036" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1617" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2. Sistem informasi pengawasan SPI dirancang, dibuat, diterapkan, dan dikembangkan secara berkelanjutan oleh suatu tim yang dikoordinasikan oleh &lt;/span&gt;&lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="16.5" y="82.34762589928062" width="253.5" height="119.95453237410072" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1618" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3. Sistem informasi pengawasan dikembangkan untuk menunjang dan memudahkan dalam proses perencanaan, pelaksanaan, dan pelaporan hasil pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="16.5" y="210.8201438848921" width="253.5" height="76.66187050359713" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1619" value="&lt;span style=&quot;background-color: initial;&quot;&gt;4. Perancangan dan penngembangan sistem informasi pengawasan mempertimbangkan segi keamanan, sumber daya yang ada, dan keefektifan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="280" y="7.453237410071942" width="170" height="99.02158273381295" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1620" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5. Perancangan dan pengembangan sistem informasi dan komunikasi pengawasan dilakukan dengan cara menghimpun, menyimpan, dan mengelola data serta informasi berbasis komputer dan manual sehingga dapat menyediakan informasi keluaran yang bernilai atas kegiatan pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="280" y="112.86330935251799" width="170" height="174.61870503597123" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1621" value="7. Sistem informasi dan komunikasi pengawasan SPI berupa situs dan aplikasi pengawasan SPI untuk menunjang dan mendukung pelaksanaan keg. &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi, dan monitoring&lt;/span&gt;&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="ofFDjcfbIGw3xVgY4F3X-1613" vertex="1">
+          <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1605" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-1510" y="1010" width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1622" value="(2) Pemeliharaan website dilakukan secara berkala" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1490" y="1144.58" width="253.5" height="172.28" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1624" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1490" y="1020" width="163" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1625" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. &lt;b&gt;informasi mengenai profil SPI&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;sejarah, visi dan misi, kelembagaan, struktur dan organisasi SPI, serta tugas pokok dan fungsi)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-1483.5" y="1048.66" width="70" height="95.92" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1626" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b. aturan yang berlaku&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-1403.5" y="1048.66" width="70" height="21.34" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1627" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d. informasi aktual lain yang berkaitan dg kegiatan SPI&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-1403.5" y="1097.97" width="70" height="29.72" as="geometry" />
+        </mxCell>
+        <mxCell id="ofFDjcfbIGw3xVgY4F3X-1628" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-1403.5" y="1074" width="70" height="21.18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
