@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:27:45.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="nyVVb8dQD8sBdAIe7g0D" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:33:42.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="gW5DlotbHAwNUldOgVik" version="18.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5590" dy="1334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5431" dy="1276" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -998,8 +998,32 @@
         <mxCell id="liw1aRFWl_uPh4_dRd6R-1560" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-1073" y="1521" width="70" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="liw1aRFWl_uPh4_dRd6R-1561" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-998" y="1423" width="148" height="151" as="geometry" />
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1561" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-998" y="1423" width="148" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1563" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;deskripsi temuan (dilengkapi dengan fasilitas kode temuan untuk analisis data hasil temuan berdasarkan pengelompokan),&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-991" y="1458" width="72" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1565" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;kriteria/ persyaratan yang dilanggar,&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-991" y="1551" width="72" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1567" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;akar penyebab&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1458" width="75.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1568" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;akibat&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1479" width="75.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1569" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rekomendasi&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1500" width="75.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1570" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;tanggapan auditan&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1521" width="75.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1571" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rencana tindak lanjut perbaikan&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1540" width="75.5" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="liw1aRFWl_uPh4_dRd6R-1572" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rencana tanggal penyelesaian&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="1572" width="75.5" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
