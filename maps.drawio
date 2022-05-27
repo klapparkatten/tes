@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T06:25:21.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="_DPQj7gNReDk-KIxqPgm" version="18.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-27T06:28:56.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="dHCgYiRdc_jy1Gfi9YQg" version="18.1.1" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="1">
     <mxGraphModel dx="8739" dy="3107" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -642,228 +642,142 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Master" id="mBY6op5tDYxq6YyHW-bA">
-    <mxGraphModel dx="6098" dy="1625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6401" dy="3107" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-0" />
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-1" parent="NhKW_5sS3TAbHmaEk9oA-0" />
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;apa itu?&lt;/font&gt;&lt;br&gt;I. Pengawasan Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2953" y="-546.75" width="153.5" height="151.5" as="geometry" />
-        </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-3" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-858" y="508.75" width="170" height="170" as="geometry" />
+          <mxGeometry x="-1278" y="544.75" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-4" value="III. Sistem Informasi Pengawas&lt;br&gt;Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1114" y="507.2" width="170.4" height="170.4" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-6" target="NhKW_5sS3TAbHmaEk9oA-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5. Keg. Pengawasan lain&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2753.25" y="-280" width="158.5" height="70" as="geometry" />
+          <mxGeometry x="-1534" y="543.2" width="170.4" height="170.4" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-7" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-36" target="NhKW_5sS3TAbHmaEk9oA-158">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1301" y="96" />
-              <mxPoint x="-1301" y="96" />
+              <mxPoint x="-1721" y="132" />
+              <mxPoint x="-1721" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-8" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-36" target="NhKW_5sS3TAbHmaEk9oA-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-773" y="508" />
-              <mxPoint x="-773" y="508" />
+              <mxPoint x="-1193" y="544" />
+              <mxPoint x="-1193" y="544" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-9" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-36" target="NhKW_5sS3TAbHmaEk9oA-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-933.1761383773228" y="475.9967066799621" as="sourcePoint" />
+            <mxPoint x="-1353.1761383773228" y="511.9967066799621" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1029" y="504" />
-              <mxPoint x="-1029" y="504" />
+              <mxPoint x="-1449" y="540" />
+              <mxPoint x="-1449" y="540" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-11" target="NhKW_5sS3TAbHmaEk9oA-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4. Pemantauan&lt;/font&gt;:&lt;br&gt;&lt;div&gt;proses penilaian kemajuan suatu program/kegiatan dalam mencapai tujuan yang telah ditetapkan secara berkesinambungan&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2754.75" y="-410" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;startArrow=none;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-40" target="NhKW_5sS3TAbHmaEk9oA-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3. Evaluasi&lt;/font&gt;:&amp;nbsp;&lt;br&gt;membandingkan hasil/prestasi suatu kegiatan dengan standar, rencana, atau norma&amp;nbsp;&lt;br&gt;&lt;br&gt;dan menentukan faktor yang mempengaruhi keberhasilan atau kegagalan" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2754" y="-568.5" width="158.5" height="148.5" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-15" target="NhKW_5sS3TAbHmaEk9oA-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Reviu&lt;/font&gt;:&amp;nbsp;&lt;br&gt;penelaahan ulang bukti bukti suatu kegiatan untuk memastikan bahwa kegiatan telah dilaksanakan sesuai ketentuan&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2754.75" y="-680" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-17" target="NhKW_5sS3TAbHmaEk9oA-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Audit&lt;/font&gt;:&lt;br&gt;proses identifikasi dan analisis masalah, pengujian, dan evaluasi bukti" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2753.25" y="-780" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-18" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-2" target="NhKW_5sS3TAbHmaEk9oA-6">
-          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
-            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
-            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-19" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-2" target="NhKW_5sS3TAbHmaEk9oA-11">
-          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
-            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
-            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-20" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-2" target="NhKW_5sS3TAbHmaEk9oA-13">
-          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
-            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
-            <mxPoint x="-2744.75" y="-458.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-21" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-2" target="NhKW_5sS3TAbHmaEk9oA-15">
-          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
-            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
-            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-22" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-2" target="NhKW_5sS3TAbHmaEk9oA-17">
-          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
-            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
-            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-24" target="NhKW_5sS3TAbHmaEk9oA-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-24" value="4. PJ Wilayah" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="1515" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1035.38" y="1551" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-26" target="NhKW_5sS3TAbHmaEk9oA-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-26" value="1. PJ Bid. Audit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="293" width="139.38" height="40" as="geometry" />
+          <mxGeometry x="-1035.38" y="329" width="139.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-28" target="NhKW_5sS3TAbHmaEk9oA-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-28" value="2. PJ Bid. Reviu, Monitoring, Evaluasi, dan Urusan LHKPN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="663" width="245" height="60" as="geometry" />
+          <mxGeometry x="-1035.38" y="699" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-29" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-3" target="NhKW_5sS3TAbHmaEk9oA-24">
-          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
-            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
-            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+          <mxGeometry x="-552.5" y="650.5" width="100" height="100" as="geometry">
+            <mxPoint x="-552.5" y="750.5" as="sourcePoint" />
+            <mxPoint x="-452.5" y="650.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-776" y="1535" />
+              <mxPoint x="-1196" y="1571" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-30" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-3" target="NhKW_5sS3TAbHmaEk9oA-44">
-          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
-            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
-            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+          <mxGeometry x="-552.5" y="650.5" width="100" height="100" as="geometry">
+            <mxPoint x="-552.5" y="750.5" as="sourcePoint" />
+            <mxPoint x="-452.5" y="650.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-746" y="1101" />
+              <mxPoint x="-1166" y="1137" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-31" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-3" target="NhKW_5sS3TAbHmaEk9oA-26">
-          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
-            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
-            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+          <mxGeometry x="-552.5" y="650.5" width="100" height="100" as="geometry">
+            <mxPoint x="-552.5" y="750.5" as="sourcePoint" />
+            <mxPoint x="-452.5" y="650.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-32" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-3" target="NhKW_5sS3TAbHmaEk9oA-28">
-          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
-            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
-            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+          <mxGeometry x="-552.5" y="650.5" width="100" height="100" as="geometry">
+            <mxPoint x="-552.5" y="750.5" as="sourcePoint" />
+            <mxPoint x="-452.5" y="650.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-716" y="693" />
+              <mxPoint x="-1136" y="729" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F5AF58;strokeColor=#F08E81;strokeWidth=3;entryX=0.585;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-34" target="NhKW_5sS3TAbHmaEk9oA-106">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1419" y="625.24" as="targetPoint" />
+            <mxPoint x="-1839" y="661.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-34" value="Penggunaan TIK dalam Sistem Pengawasan" style="rounded=1;fillColor=#F08E81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1269" y="562.3999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1689" y="598.3999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-35" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-4" target="NhKW_5sS3TAbHmaEk9oA-34">
-          <mxGeometry x="-562.5" y="972.8999999999999" width="100" height="100" as="geometry">
-            <mxPoint x="-562.5" y="1072.8999999999999" as="sourcePoint" />
-            <mxPoint x="-462.5" y="972.8999999999999" as="targetPoint" />
+          <mxGeometry x="-982.5" y="1008.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-982.5" y="1108.8999999999999" as="sourcePoint" />
+            <mxPoint x="-882.5" y="1008.8999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-36" value="Surat Rektor &lt;br&gt;821-2020&lt;br&gt;&lt;br&gt;Petunjuk Kerja Program Pengawasan SPI-UT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1105" y="57.16" width="409" height="416.5" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#D4E1F5;strokeWidth=2;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-39" target="NhKW_5sS3TAbHmaEk9oA-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-38" value="agar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-37">
-          <mxGeometry x="-0.3817" y="1" relative="1" as="geometry">
-            <mxPoint x="8" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-39" value="Penyelenggaraan tugas dan fungsi organisasi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#A9C4EB;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2474.75" y="-513" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-40" value="terhadap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2574.75" y="-501.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;endArrow=none;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-13" target="NhKW_5sS3TAbHmaEk9oA-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2609" y="-462.57779171894595" as="sourcePoint" />
-            <mxPoint x="-2474.75" y="-470.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-42" value="memberikan keyakinan yang memadai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#dae8fc;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-2283.75" y="-513" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1525" y="93.16" width="409" height="416.5" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-44" target="NhKW_5sS3TAbHmaEk9oA-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-44" value="3. PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM" style="rounded=1;fillColor=#F5AF58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-616" y="1063" width="380" height="83.84" as="geometry" />
+          <mxGeometry x="-1036" y="1099" width="380" height="83.84" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-45" value="Website" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1269" y="973.8999999999996" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1689" y="1009.8999999999996" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-46" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-4" target="NhKW_5sS3TAbHmaEk9oA-45">
-          <mxGeometry x="-562.5" y="972.8999999999999" width="100" height="100" as="geometry">
-            <mxPoint x="-1063.5646680413456" y="1104.5138439657615" as="sourcePoint" />
-            <mxPoint x="1322.5" y="1205.3652915509722" as="targetPoint" />
+          <mxGeometry x="-982.5" y="1008.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-1483.5646680413456" y="1140.5138439657615" as="sourcePoint" />
+            <mxPoint x="902.5" y="1241.3652915509722" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1060" y="994.24" />
+              <mxPoint x="-1480" y="1030.24" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-47" value="Aplikasi" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1269" y="1216.0799999999997" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1689" y="1252.0799999999997" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-48" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-4" target="NhKW_5sS3TAbHmaEk9oA-47">
-          <mxGeometry x="-552.5" y="982.8999999999999" width="100" height="100" as="geometry">
-            <mxPoint x="-1053.499999999984" y="1111.3999999999999" as="sourcePoint" />
-            <mxPoint x="-893.5" y="1111.3999999999999" as="targetPoint" />
+          <mxGeometry x="-972.5" y="1018.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-1473.499999999984" y="1147.3999999999999" as="sourcePoint" />
+            <mxPoint x="-1313.5" y="1147.3999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1010" y="1235.24" />
-              <mxPoint x="-1149" y="1235.24" />
+              <mxPoint x="-1430" y="1271.24" />
+              <mxPoint x="-1569" y="1271.24" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-49" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="1563.8400000000001" width="460" height="270" as="geometry" />
+          <mxGeometry x="-1035.38" y="1599.8400000000001" width="460" height="270" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-49">
           <mxGeometry width="460" height="270" as="geometry" />
@@ -881,7 +795,7 @@
           <mxGeometry x="220" y="18.16999999999996" width="220" height="112.75" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-55" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="729" width="650" height="270" as="geometry" />
+          <mxGeometry x="-1035.38" y="765" width="650" height="270" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-55">
           <mxGeometry width="650" height="270" as="geometry" />
@@ -917,7 +831,7 @@
           <mxGeometry x="370" y="70.15999999999997" width="70" height="39.84" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-67" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-615.38" y="1154.5" width="610" height="310" as="geometry" />
+          <mxGeometry x="-1035.38" y="1190.5" width="610" height="310" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-67">
           <mxGeometry width="610" height="310" as="geometry" />
@@ -968,70 +882,70 @@
           <mxGeometry x="360" y="209.57000000000005" width="230" height="30.43" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-616" y="341" width="920" height="272" as="geometry" />
+          <mxGeometry x="-1036" y="377" width="920" height="272" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-85" value="(1) Merencakan, menyiapkan, melaksanakan keg. audit yg mencakup:&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-596" y="358.25" width="270" height="236.75" as="geometry" />
+          <mxGeometry x="-1016" y="394.25" width="270" height="236.75" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-86" value="(2) Menyusun instrumen audit" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-316" y="358.25" width="133.5" height="40" as="geometry" />
+          <mxGeometry x="-736" y="394.25" width="133.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-87" value="(3) Menyusun kerangka acuan kerja (term of reference)" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-316" y="403.75" width="133.5" height="50" as="geometry" />
+          <mxGeometry x="-736" y="439.75" width="133.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-88" value="(4) Melakukan proses rekrutmen dan seleksi calon auditor" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-316" y="458.75" width="133.5" height="50" as="geometry" />
+          <mxGeometry x="-736" y="494.75" width="133.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-89" value="(5)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan proses penetapan auditor SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-316" y="516" width="130" height="46.75" as="geometry" />
+          <mxGeometry x="-736" y="552" width="130" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-90" value="(6)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Mereviu kertas kerja dan laporan audit&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-176" y="358.25" width="120" height="41.75" as="geometry" />
+          <mxGeometry x="-596" y="394.25" width="120" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-91" value="(7) Mengkoordinasikan penyusunan laporan audit dan menyampaikan LHA,&amp;nbsp;rekomendasi perbaikan (management letter), dan tindak lanjut kpd pimpinan SPI" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-176" y="406.62" width="120" height="140" as="geometry" />
+          <mxGeometry x="-596" y="442.62" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-92" value="(8)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan, pengecekan, dan pendampingan atas pelaksanaan tindak lanjut (corrective action) atas hasil audit internal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-51" y="358.75" width="163" height="100" as="geometry" />
+          <mxGeometry x="-471" y="394.75" width="163" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-93" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(9) Audit internal (no.8):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kegiatan pemberian keyakinan (assurance activities) dan konsultasi (consulting activities) untuk meningkatkan kualitas operasional organisasi yang menjadi auditan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-51" y="465" width="163" height="120" as="geometry" />
+          <mxGeometry x="-471" y="501" width="163" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-94" value="11.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaporkan seluruh pelaksanaan tugas dan tanggungjawabnya kepada Ketua SPI secara berkala&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="118" y="444.75" width="160" height="70" as="geometry" />
+          <mxGeometry x="-302" y="480.75" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-95" value="&lt;span style=&quot;background-color: initial;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaksanakan tugas lain dari pimpinan SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="118" y="520.75" width="160" height="60" as="geometry" />
+          <mxGeometry x="-302" y="556.75" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-96" value="10.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan atas pelaksanaan tindak lanjut temuan dan rekomendasi audit eksternal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="118" y="359.75" width="160" height="80" as="geometry" />
+          <mxGeometry x="-302" y="395.75" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-97" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;a. &lt;b&gt;audit ketaatan &lt;/b&gt;(&lt;i&gt;compliance audit&lt;/i&gt;) terhadap ketentuan dan peraturan (&lt;i&gt;law and regulations&lt;/i&gt;)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-586" y="405" width="170" height="30" as="geometry" />
+          <mxGeometry x="-1006" y="441" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-98" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;b. &lt;b&gt;audit keuangan&lt;/b&gt; (&lt;i&gt;financial audit&lt;/i&gt;) atas pos tertentu u/ mendukung audit lap. keu&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-586" y="441" width="170" height="28" as="geometry" />
+          <mxGeometry x="-1006" y="477" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-99" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-586" y="476" width="170" height="109" as="geometry" />
+          <mxGeometry x="-1006" y="512" width="170" height="109" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-100" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;d. &lt;b&gt;audit sistem informasi manajemen&lt;/b&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-410" y="405" width="74" height="30" as="geometry" />
+          <mxGeometry x="-830" y="441" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-101" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;e. &lt;b&gt;audit khusus&lt;/b&gt;, terutama atas instruksi Rektor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-410" y="439" width="74" height="32" as="geometry" />
+          <mxGeometry x="-830" y="475" width="74" height="32" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-102" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;f. &lt;b&gt;audit pasif &lt;/b&gt;(&lt;i&gt;desk audit&lt;/i&gt;) terhadap laporan aktivitas manajemen&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-409.38" y="476" width="73.38" height="49" as="geometry" />
+          <mxGeometry x="-829.38" y="512" width="73.38" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-103" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-578" y="482" width="155" height="34" as="geometry" />
+          <mxGeometry x="-998" y="518" width="155" height="34" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-104" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;management audit&lt;/b&gt; u/ menilai pelaksanaan kegiatan manajemen dalam mencapai misi, tujuan, dan strategi yang ditetapkan serta tingkat operasional luar biasa yang diharapkan.&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-578" y="522" width="155" height="56" as="geometry" />
+          <mxGeometry x="-998" y="558" width="155" height="56" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-105" value="" style="group" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1799" y="629.24" width="650" height="296" as="geometry" />
+          <mxGeometry x="-2219" y="665.24" width="650" height="296" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-105">
           <mxGeometry width="650" height="296" as="geometry" />
@@ -1058,7 +972,7 @@
           <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-114" value="" style="group" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1779" y="1021.24" width="630" height="150" as="geometry" />
+          <mxGeometry x="-2199" y="1057.24" width="630" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-114">
           <mxGeometry width="630" height="150" as="geometry" />
@@ -1085,7 +999,7 @@
           <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-123" value="" style="group" vertex="1" connectable="0" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1780" y="1272.24" width="613" height="503" as="geometry" />
+          <mxGeometry x="-2200" y="1308.24" width="613" height="503" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-123">
           <mxGeometry width="613" height="503" as="geometry" />
@@ -1190,33 +1104,605 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-158" value="&lt;br&gt;I. Ketentuan Umum" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1839" y="20" width="153.5" height="151.5" as="geometry" />
+          <mxGeometry x="-2259" y="56" width="153.5" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-159" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;I. Penjelasan Istilah&lt;/span&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1736" y="-722" width="178" height="39" as="geometry" />
+          <mxGeometry x="-2156" y="-686" width="178" height="39" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#CAEDFA;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1736" y="-676" width="2046" height="679" as="geometry" />
+          <mxGeometry x="-2156" y="-640" width="1962" height="679" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-161" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Pengawasan Internal&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#88C4E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1721" y="-667" width="270" height="154" as="geometry" />
+          <mxGeometry x="-2141" y="-631" width="270" height="154" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-162" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1474" y="-803" width="170" height="109" as="geometry" />
+          <mxGeometry x="-1894" y="-767" width="170" height="109" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-163" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=#88C4E2;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
-          <mxGeometry x="-1466" y="-797" width="155" height="34" as="geometry" />
+          <mxGeometry x="-1886" y="-761" width="155" height="34" as="geometry" />
         </mxCell>
         <mxCell id="NhKW_5sS3TAbHmaEk9oA-164" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+          <mxGeometry x="-2135" y="-608.5" width="170" height="109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Raw" id="08_u5iZj8qeZ-SbikFev">
+    <mxGraphModel dx="6098" dy="1625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="fboRldyLuEPARP4V9vse-0" />
+        <mxCell id="fboRldyLuEPARP4V9vse-1" parent="fboRldyLuEPARP4V9vse-0" />
+        <mxCell id="fboRldyLuEPARP4V9vse-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;apa itu?&lt;/font&gt;&lt;br&gt;I. Pengawasan Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2953" y="-546.75" width="153.5" height="151.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-3" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-858" y="508.75" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-4" value="III. Sistem Informasi Pengawas&lt;br&gt;Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1114" y="507.2" width="170.4" height="170.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-6" target="fboRldyLuEPARP4V9vse-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;5. Keg. Pengawasan lain&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2753.25" y="-280" width="158.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-7" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-36" target="fboRldyLuEPARP4V9vse-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1301" y="96" />
+              <mxPoint x="-1301" y="96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-8" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-36" target="fboRldyLuEPARP4V9vse-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-773" y="508" />
+              <mxPoint x="-773" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-9" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-36" target="fboRldyLuEPARP4V9vse-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-933.1761383773228" y="475.9967066799621" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1029" y="504" />
+              <mxPoint x="-1029" y="504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-11" target="fboRldyLuEPARP4V9vse-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4. Pemantauan&lt;/font&gt;:&lt;br&gt;&lt;div&gt;proses penilaian kemajuan suatu program/kegiatan dalam mencapai tujuan yang telah ditetapkan secara berkesinambungan&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2754.75" y="-410" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;startArrow=none;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-40" target="fboRldyLuEPARP4V9vse-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3. Evaluasi&lt;/font&gt;:&amp;nbsp;&lt;br&gt;membandingkan hasil/prestasi suatu kegiatan dengan standar, rencana, atau norma&amp;nbsp;&lt;br&gt;&lt;br&gt;dan menentukan faktor yang mempengaruhi keberhasilan atau kegagalan" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2754" y="-568.5" width="158.5" height="148.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-15" target="fboRldyLuEPARP4V9vse-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Reviu&lt;/font&gt;:&amp;nbsp;&lt;br&gt;penelaahan ulang bukti bukti suatu kegiatan untuk memastikan bahwa kegiatan telah dilaksanakan sesuai ketentuan&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2754.75" y="-680" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#A9C4EB;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-17" target="fboRldyLuEPARP4V9vse-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Audit&lt;/font&gt;:&lt;br&gt;proses identifikasi dan analisis masalah, pengujian, dan evaluasi bukti" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2753.25" y="-780" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-18" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-2" target="fboRldyLuEPARP4V9vse-6">
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-19" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-2" target="fboRldyLuEPARP4V9vse-11">
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-20" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-2" target="fboRldyLuEPARP4V9vse-13">
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2744.75" y="-458.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-21" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-2" target="fboRldyLuEPARP4V9vse-15">
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-22" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-2" target="fboRldyLuEPARP4V9vse-17">
+          <mxGeometry x="-2506.25" y="-506" width="100" height="100" as="geometry">
+            <mxPoint x="-2506.25" y="-406" as="sourcePoint" />
+            <mxPoint x="-2406.25" y="-506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-24" target="fboRldyLuEPARP4V9vse-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-24" value="4. PJ Wilayah" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="1515" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeColor=#F5BD84;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-26" target="fboRldyLuEPARP4V9vse-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-26" value="1. PJ Bid. Audit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="293" width="139.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-28" target="fboRldyLuEPARP4V9vse-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-28" value="2. PJ Bid. Reviu, Monitoring, Evaluasi, dan Urusan LHKPN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="663" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-29" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-3" target="fboRldyLuEPARP4V9vse-24">
+          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
+            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
+            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-776" y="1535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-30" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-3" target="fboRldyLuEPARP4V9vse-44">
+          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
+            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
+            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-746" y="1101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-31" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-3" target="fboRldyLuEPARP4V9vse-26">
+          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
+            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
+            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-32" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-3" target="fboRldyLuEPARP4V9vse-28">
+          <mxGeometry x="-132.5" y="614.5" width="100" height="100" as="geometry">
+            <mxPoint x="-132.5" y="714.5" as="sourcePoint" />
+            <mxPoint x="-32.5" y="614.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-716" y="693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F5AF58;strokeColor=#F08E81;strokeWidth=3;entryX=0.585;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-34" target="fboRldyLuEPARP4V9vse-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1419" y="625.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-34" value="Penggunaan TIK dalam Sistem Pengawasan" style="rounded=1;fillColor=#F08E81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1269" y="562.3999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-35" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-4" target="fboRldyLuEPARP4V9vse-34">
+          <mxGeometry x="-562.5" y="972.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-562.5" y="1072.8999999999999" as="sourcePoint" />
+            <mxPoint x="-462.5" y="972.8999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-36" value="Surat Rektor &lt;br&gt;821-2020&lt;br&gt;&lt;br&gt;Petunjuk Kerja Program Pengawasan SPI-UT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1105" y="57.16" width="409" height="416.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=#D4E1F5;strokeWidth=2;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-39" target="fboRldyLuEPARP4V9vse-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-38" value="agar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-37">
+          <mxGeometry x="-0.3817" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-39" value="Penyelenggaraan tugas dan fungsi organisasi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#A9C4EB;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2474.75" y="-513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-40" value="terhadap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2574.75" y="-501.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;strokeColor=#A9C4EB;strokeWidth=2;endArrow=none;fillColor=#dae8fc;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-13" target="fboRldyLuEPARP4V9vse-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2609" y="-462.57779171894595" as="sourcePoint" />
+            <mxPoint x="-2474.75" y="-470.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-42" value="memberikan keyakinan yang memadai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#dae8fc;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-2283.75" y="-513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#F5BD84;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-44" target="fboRldyLuEPARP4V9vse-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-44" value="3. PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM" style="rounded=1;fillColor=#F5AF58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-616" y="1063" width="380" height="83.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-45" value="Website" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1269" y="973.8999999999996" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-46" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-4" target="fboRldyLuEPARP4V9vse-45">
+          <mxGeometry x="-562.5" y="972.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-1063.5646680413456" y="1104.5138439657615" as="sourcePoint" />
+            <mxPoint x="1322.5" y="1205.3652915509722" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1060" y="994.24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-47" value="Aplikasi" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1269" y="1216.0799999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-48" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-4" target="fboRldyLuEPARP4V9vse-47">
+          <mxGeometry x="-552.5" y="982.8999999999999" width="100" height="100" as="geometry">
+            <mxPoint x="-1053.499999999984" y="1111.3999999999999" as="sourcePoint" />
+            <mxPoint x="-893.5" y="1111.3999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1010" y="1235.24" />
+              <mxPoint x="-1149" y="1235.24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-49" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="1563.8400000000001" width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-49">
+          <mxGeometry width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-51" value="1.&amp;nbsp;Membantu mempersiapkan bahan, data, dan informasi untuk pelaksanaan penyusunan PKA, perencanaan monitoring, dan perencanaan audit sesuai dengan wilayah tanggungjawabnya" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-49">
+          <mxGeometry x="20" y="16.279999999999973" width="190" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-52" value="2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Membantu memantau dan merekapitulasi hasil kegiatan audit, monitoring, reviu, dan evalluasi sesuai dengan wilayah tanggungjawabnya.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-49">
+          <mxGeometry x="20" y="139.02999999999997" width="190" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-53" value="4.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaksanakan tugas-tugas lain dari Ketua SPI.&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-49">
+          <mxGeometry x="220" y="139.91" width="220" height="40.09" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-54" value="3.&amp;nbsp;Mengelola administrasi dan mendokumentasikan hasil kegiatan audit, monitoring, reviu, dan evaluasi sesuai dengan wilayah tanggungjawabnya, baik manual maupun melalui aplikasi pengawasan." style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-49">
+          <mxGeometry x="220" y="18.16999999999996" width="220" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-55" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="729" width="650" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry width="650" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-57" value="(1) Merencanakan, mempersiapkan, dan melaksanakan kegiatan Bidang Reviu, Monitoring, dan Evaluasi yang meliputi:&lt;br&gt;&lt;ol style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RKA-KL&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reviu LapKeu UT&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monitoring daya serap anggaran dan realisasinya&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu Lap. Kinerja UT&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RKA unit UT dan unit SPI&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Evaluasi penyelenggaraan kelayakan program/prodi yang ditawarkan UT&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reviu RBA UT&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reviu Siakunlap/aplikasi sejenis&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="16.5" y="7.25" width="253.5" height="192.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-58" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan standar dan instrumen untuk kegiatan, Reviu, Monitoring, dan Evaluasi&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="16.5" y="205.49" width="253.5" height="54.51" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-59" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3) Mengkoordinasikan pelaksanaan kegiatan e-LHKPN UT yang meliputi:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="281.5" y="10" width="163" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-60" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(5) Melaporkan kpd Ketua SPI seluruh hasil penyelenggaraan kegiatan Bidang Reviu, Monitoring, Evaluasi, dan Urusan LHKPN secara berkala&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="451" y="10" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-61" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(6) Melaksanakan tugas lain dari pimpinan SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="451" y="105" width="179" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-62" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Melaporkan hasil kegiatan pelaporan LHKPN UT kpd Ketua SPI secara bertahap&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="284.5" y="180" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-63" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;a. mendaftarkan/&lt;br&gt;mengaktifkan akun wajib lapor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="290" y="70.16" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-64" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;b. memberikan formulir e-LHKPN kpd Wajib Lapor (WL)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="290" y="115.07999999999998" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-65" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;d. memastikan status pelaporan WL pada kantor KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="370" y="115.07999999999998" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-66" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;c. mengirimkan berkas laporan WL ke KPK&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-55">
+          <mxGeometry x="370" y="70.15999999999997" width="70" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-67" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-615.38" y="1154.5" width="610" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry width="610" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-69" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Merencanakan, mempersiapkan, dan melaksanakan kegiatan yang berkaitan dengan Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan Sumber Daya Manusia (SDM) yang meliputi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="16.5" y="10" width="333.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-70" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan evaluasi dan monitoring seluruh kegiatan Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi Komunikasi Pengawasan, dan Pengcmbangan SDM.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="360" y="15" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-71" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaporkan kepada Ketua SPI seluruh hasil penyelenggaraan kegiatan di Bidang Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="360" y="111.82000000000005" width="230" height="88.18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-72" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. Mengembangkan dan memutakhirkan standar operasi kerja organisasi SPI;&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="26" y="96" width="95" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-73" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan pedoman dan petunjuk kerja&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="26.620000000000005" y="138.91999999999996" width="95" height="34.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-74" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan memutakhirkan uraian pekerjaan Unit Kerja&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="26.620000000000005" y="176.82000000000005" width="95" height="36.18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-75" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menyusun istrumen evaluasi pekerjaan dan instrumen penilaian kinerja SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="26" y="216.65999999999997" width="95" height="39.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-76" value="&lt;span style=&quot;background-color: initial;&quot;&gt;e.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem informasi melalui website&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="125.62" y="96" width="95" height="29.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-77" value="&lt;span style=&quot;background-color: initial;&quot;&gt;f.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem audit menggunakan jaringan dan berbasis teknologi informasi;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="125.62" y="133.65999999999997" width="95" height="55.18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-78" value="&lt;span style=&quot;background-color: initial;&quot;&gt;g.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola sistem informasi manajemen serta sistem dokumentasi dan publikasi SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="125.62" y="192.65999999999997" width="95" height="55.18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-79" value="&lt;span style=&quot;background-color: initial;&quot;&gt;h.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mengembangkan dan mengelola dokumentasi dan publikasi kegiatan&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="229" y="96.41999999999996" width="111" height="27.58" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-80" value="&lt;span style=&quot;background-color: initial;&quot;&gt;k.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan perencanaan dan pelaksanaan peningkatan kualitas SDM dan auditor SPI.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="229" y="225.15999999999997" width="105.38" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-81" value="&lt;span style=&quot;background-color: initial;&quot;&gt;j.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bersama-bersama PJ Bidang Audit melakukan perekrutan dan seleksi auditor SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="229" y="176.15999999999997" width="105.38" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-82" value="&lt;span style=&quot;background-color: initial;&quot;&gt;i.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bersama-bersama PJ Bidang Audit merencanakan kebutuhan SDM dan kebutuhan auditor SPI;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="229" y="129.15999999999997" width="105.38" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-83" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Melaksanakan tugas Iain dari pimpinan SPI&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-67">
+          <mxGeometry x="360" y="209.57000000000005" width="230" height="30.43" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad7ac;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-616" y="341" width="920" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-85" value="(1) Merencakan, menyiapkan, melaksanakan keg. audit yg mencakup:&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-596" y="358.25" width="270" height="236.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-86" value="(2) Menyusun instrumen audit" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-316" y="358.25" width="133.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-87" value="(3) Menyusun kerangka acuan kerja (term of reference)" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-316" y="403.75" width="133.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-88" value="(4) Melakukan proses rekrutmen dan seleksi calon auditor" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-316" y="458.75" width="133.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-89" value="(5)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan proses penetapan auditor SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-316" y="516" width="130" height="46.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-90" value="(6)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Mereviu kertas kerja dan laporan audit&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-176" y="358.25" width="120" height="41.75" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-91" value="(7) Mengkoordinasikan penyusunan laporan audit dan menyampaikan LHA,&amp;nbsp;rekomendasi perbaikan (management letter), dan tindak lanjut kpd pimpinan SPI" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-176" y="406.62" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-92" value="(8)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan, pengecekan, dan pendampingan atas pelaksanaan tindak lanjut (corrective action) atas hasil audit internal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-51" y="358.75" width="163" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-93" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(9) Audit internal (no.8):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kegiatan pemberian keyakinan (assurance activities) dan konsultasi (consulting activities) untuk meningkatkan kualitas operasional organisasi yang menjadi auditan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-51" y="465" width="163" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-94" value="11.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaporkan seluruh pelaksanaan tugas dan tanggungjawabnya kepada Ketua SPI secara berkala&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="118" y="444.75" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-95" value="&lt;span style=&quot;background-color: initial;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Melaksanakan tugas lain dari pimpinan SPI&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="118" y="520.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-96" value="10.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Melakukan pemantauan atas pelaksanaan tindak lanjut temuan dan rekomendasi audit eksternal&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5BD84;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="118" y="359.75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-97" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;a. &lt;b&gt;audit ketaatan &lt;/b&gt;(&lt;i&gt;compliance audit&lt;/i&gt;) terhadap ketentuan dan peraturan (&lt;i&gt;law and regulations&lt;/i&gt;)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-586" y="405" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-98" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;b. &lt;b&gt;audit keuangan&lt;/b&gt; (&lt;i&gt;financial audit&lt;/i&gt;) atas pos tertentu u/ mendukung audit lap. keu&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-586" y="441" width="170" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-99" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-586" y="476" width="170" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-100" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;d. &lt;b&gt;audit sistem informasi manajemen&lt;/b&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-410" y="405" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-101" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;e. &lt;b&gt;audit khusus&lt;/b&gt;, terutama atas instruksi Rektor&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-410" y="439" width="74" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-102" value="&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;f. &lt;b&gt;audit pasif &lt;/b&gt;(&lt;i&gt;desk audit&lt;/i&gt;) terhadap laporan aktivitas manajemen&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-409.38" y="476" width="73.38" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-103" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-578" y="482" width="155" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-104" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;management audit&lt;/b&gt; u/ menilai pelaksanaan kegiatan manajemen dalam mencapai misi, tujuan, dan strategi yang ditetapkan serta tingkat operasional luar biasa yang diharapkan.&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F5CBA2;strokeColor=#F5BD84;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-578" y="522" width="155" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-105" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1799" y="629.24" width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry width="650" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-107" value="(1) SPI memanfaatkan teknologi informasi dan komunikasi dalam mengembangkan dan menerapkan sistem informasi pengawasan internal UT" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="16.5" y="7.719424460431655" width="253.5" height="66.81294964028777" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-108" value="(6) Pemeliharaan sistem informasi pengawasan dilakukan secara berkala oleh &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="460" y="9.753093525179944" width="173.5" height="138.41726618705036" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-109" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(2) Sistem informasi pengawasan SPI dirancang, dibuat, diterapkan, dan dikembangkan secara berkelanjutan oleh suatu tim yang dikoordinasikan oleh &lt;/span&gt;&lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="16.5" y="82.34762589928062" width="253.5" height="119.95453237410072" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-110" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(3) Sistem informasi pengawasan dikembangkan untuk menunjang dan memudahkan dalam proses perencanaan, pelaksanaan, dan pelaporan hasil pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="16.5" y="210.8201438848921" width="253.5" height="76.66187050359713" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-111" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(4) Perancangan dan penngembangan sistem informasi pengawasan mempertimbangkan segi keamanan, sumber daya yang ada, dan keefektifan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="280" y="7.453237410071942" width="170" height="99.02158273381295" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-112" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(5) Perancangan dan pengembangan sistem informasi dan komunikasi pengawasan dilakukan dengan cara menghimpun, menyimpan, dan mengelola data serta informasi berbasis komputer dan manual sehingga dapat menyediakan informasi keluaran yang bernilai atas kegiatan pengawasan&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="280" y="112.86330935251799" width="170" height="174.61870503597123" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-113" value="(7) Sistem informasi dan komunikasi pengawasan SPI berupa situs dan aplikasi pengawasan SPI untuk menunjang dan mendukung pelaksanaan keg. &lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi, dan monitoring&lt;/span&gt;&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="fboRldyLuEPARP4V9vse-105">
+          <mxGeometry x="460" y="156.15597122302157" width="173.5" height="123.87280575539569" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-114" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1779" y="1021.24" width="630" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry width="630" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-116" value="&lt;div&gt;(2) Pemeliharaan website dilakukan berkala setiap satu minggu sekali oleh ICT SPI di bawah tanggung jawab &lt;span style=&quot;background-color: rgb(245, 175, 88);&quot;&gt;PJ Bidang Organisasi, Sistem Pengawasan, Sistem Informasi &amp;amp; Komunikasi Pengawasan, dan Pengembangan SDM.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="186" y="12.289999999999964" width="210" height="125.42" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-117" value="(1) Situs SPI berisikan:&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="16" y="10" width="163" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-118" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a. &lt;b&gt;informasi mengenai profil SPI&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;sejarah, visi dan misi, kelembagaan, struktur dan organisasi SPI, serta tugas pokok dan fungsi)&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="22.5" y="38.66000000000008" width="70" height="95.92" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-119" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b. aturan yang berlaku&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="102.5" y="38.66000000000008" width="70" height="21.34" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-120" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d. informasi aktual lain yang berkaitan dg kegiatan SPI&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="102.5" y="87.97000000000003" width="70" height="29.72" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-121" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c. arsip dokumentasi&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="102.5" y="64" width="70" height="21.18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-122" value="(3) Pemberian akses atas pemanfaatan website SPI merupakan kewenangan Ketua SPI.&amp;nbsp;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-114">
+          <mxGeometry x="406" y="11.159999999999968" width="210" height="125.42" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-123" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1780" y="1272.24" width="613" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#fad9d5;container=0;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry width="613" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-125" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(1) Aplikasi pengawasan adalah suatu perangkat lunak (software) atau program komputer yang beroperasi untuk mendukung pelaksanaan kegiataan &lt;/span&gt;&lt;span style=&quot;background-color: rgb(100, 187, 226);&quot;&gt;audit, reviu, evaluasi dan monitoring&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="15" y="11.160000000000082" width="423" height="58.84" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-126" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="18" y="76" width="418" height="313" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-127" value="(2) Penerapan aplikasi pengawasan SPI terutama digunakan dalam:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry width="418" height="313" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-128" value="&lt;span style=&quot;background-color: initial;&quot;&gt;a.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan penerbitan surat tugas audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry x="11" y="36" width="192" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-129" value="&lt;span style=&quot;background-color: initial;&quot;&gt;b.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Koordinasi dengan auditan dalam penetapan jadwal audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry x="11" y="57" width="192" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-130" value="&lt;span style=&quot;background-color: initial;&quot;&gt;c.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan berita acara pemeriksaan kas yang dilakukan pada saat audit;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry x="11" y="84" width="192" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-131" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry x="11" y="115" width="192" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-132" value="&lt;span style=&quot;background-color: initial;&quot;&gt;d.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pembuatan dan pendokumentasian KDA yang berisi:&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry width="192" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-133" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;deskripsi temuan (dilengkapi dengan fasilitas kode temuan untuk analisis data hasil temuan berdasarkan pengelompokan),&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="7.905882352941177" y="35" width="81.31764705882352" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-134" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;kriteria/ persyaratan yang dilanggar,&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="7.905882352941177" y="128" width="81.31764705882352" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-135" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;akar penyebab&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="35" width="85.27058823529411" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-136" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;akibat&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="56" width="85.27058823529411" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-137" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rekomendasi&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="77" width="85.27058823529411" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-138" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;tanggapan auditan&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="98" width="85.27058823529411" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-139" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rencana tindak lanjut perbaikan&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="117" width="85.27058823529411" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-140" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;rencana tanggal penyelesaian&lt;/div&gt;&lt;/span&gt;" style="rounded=1;fillColor=#FAD9D5;strokeColor=#BAA29F;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-131">
+          <mxGeometry x="95.43529411764706" y="149" width="85.27058823529411" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-141" value="" style="group" vertex="1" connectable="0" parent="fboRldyLuEPARP4V9vse-126">
+          <mxGeometry x="213" y="35" width="194" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-142" value="&lt;span style=&quot;background-color: initial;&quot;&gt;e.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penilaian kinerja tim audit oleh auditan;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-143" value="&lt;span style=&quot;background-color: initial;&quot;&gt;f.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penilaian ketua tim audit oleh Pengendali teknis;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry y="20" width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-144" value="&lt;span style=&quot;background-color: initial;&quot;&gt;g.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penilaian anggota tim audit oleh ketua tim;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry y="40" width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-145" value="&lt;span style=&quot;background-color: initial;&quot;&gt;h.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penilaian Sistem Pengendalian Manajemen auditan yang dilakukan oleh tim audit;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry y="60" width="192" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-146" value="&lt;span style=&quot;background-color: initial;&quot;&gt;i.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penyusunan dan pendokumentasian LHA;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry y="91" width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-147" value="&lt;span style=&quot;background-color: initial;&quot;&gt;j.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pendokumentasian bahan pendukung audit seperti Daftar Hadir Rapat Pembukaan atau Penutupan Audit, dan PKA;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry y="111" width="192" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-148" value="&lt;span style=&quot;background-color: initial;&quot;&gt;k.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Penyelesaian tindak Ianjut temuan hasil audit oleh auditan;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry x="2" y="147" width="192" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-149" value="&lt;span style=&quot;background-color: initial;&quot;&gt;l.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Rekapitulasi dan hasil penghitungan temuan audit, rekapitulasi kinerja tim audit oleh auditan, dan rekapitulasi penilaian kinerja ketua tim audit oleh Dalnis serta rekapitulasi penilaian anggota tim oleh ketua tim;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry x="2" y="173" width="192" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-150" value="&lt;span style=&quot;background-color: initial;&quot;&gt;m.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Rekapitulasi penilaian SPM auditan oleh auditor;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry x="2" y="227" width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-151" value="&lt;span style=&quot;background-color: initial;&quot;&gt;n. Menyediakan data dan informasi untuk analisis statistik kegiatan audit.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#fad9d5;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-141">
+          <mxGeometry x="2" y="249" width="192" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-152" value="&lt;div&gt;&lt;div&gt;(3) Data dan informasi pada aplikasi pengawasan merupakan rahasia negara yang wajib dilindungi kerahasiaannya, oleh karena itu akses ke dalam aplikasi pengawasan bersifat terbatas.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="13" y="397" width="423" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-153" value="&lt;div&gt;(4) Pemberian akses atas pemanfaatan aplikasi pengawasan merupakan kewenangan Ketua SPI.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="13" y="453" width="423" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-154" value="&lt;div&gt;(5) Ketua SPI dapat memberikan akses terhadap aplikasi pengawasan kepada auditor atau Tim Auditor SPI atau pihak lain yang sedang melakukan tugas audit atau tugas lain yang relevan di lingkungan UT.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="443" y="94" width="154" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-155" value="&lt;div&gt;(6) Pihak-pihak yang ingin melakukan akses ke dalam aplikasi pengawasan di luar tugas sebagaimana dimaksud ayat (5) wajib mengajukan ijin secara tertulis kepada Ketua SPI&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="443" y="242.83999999999992" width="154" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-156" value="&lt;div&gt;(7) Pengembangan dan penyempurnaan sistem informasi &amp;amp; komunikasi pengawasan akan dilakukan secara berkelanjutan sesuai dengan perkembangan kebutuhan dan peningkatan kualitas pengawasan SPI.&amp;nbsp;&lt;/div&gt;" style="rounded=1;fillColor=#F8B9A6;strokeColor=none;strokeWidth=3;shadow=0;html=1;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-123">
+          <mxGeometry x="443" y="357.8399999999999" width="154" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-157" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#64BBE2;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-158" target="fboRldyLuEPARP4V9vse-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-158" value="&lt;br&gt;I. Ketentuan Umum" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1839" y="20" width="153.5" height="151.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-159" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;I. Penjelasan Istilah&lt;/span&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1736" y="-722" width="178" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=none;fillColor=#CAEDFA;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1736" y="-676" width="2046" height="679" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-161" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Pengawasan Internal&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#88C4E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1721" y="-667" width="270" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-162" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1474" y="-803" width="170" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-163" value="c.&amp;nbsp;&lt;b&gt;audit operasional&lt;/b&gt;&amp;nbsp;u/ mengukur tingkat efisiensi, keefektifan (&lt;i&gt;operational and cost effectiveness),&amp;nbsp;&lt;/i&gt;dan&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=#88C4E2;strokeWidth=2;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
+          <mxGeometry x="-1466" y="-797" width="155" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="fboRldyLuEPARP4V9vse-164" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/span&gt;" style="rounded=1;fillColor=#CAEDFA;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=8;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-1715" y="-644.5" width="170" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-165" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-165" value="II. Tugas dan Wewenang Penanggung Jawab" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3417.5" y="468.75" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-166" value="III. Sistem Informasi Pengawas&lt;br&gt;Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-166" value="III. Sistem Informasi Pengawas&lt;br&gt;Internal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3673.5" y="467.20000000000005" width="170.4" height="170.4" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-167" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-185" target="NhKW_5sS3TAbHmaEk9oA-165">
+        <mxCell id="fboRldyLuEPARP4V9vse-167" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-185" target="fboRldyLuEPARP4V9vse-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-3332.5" y="468" />
@@ -1224,7 +1710,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-168" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-185" target="NhKW_5sS3TAbHmaEk9oA-166">
+        <mxCell id="fboRldyLuEPARP4V9vse-168" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-185" target="fboRldyLuEPARP4V9vse-166">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3492.676138377323" y="435.9967066799621" as="sourcePoint" />
             <Array as="points">
@@ -1233,79 +1719,79 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-169" value="1. PJ Bid. Audit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-169" value="1. PJ Bid. Audit" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3170" y="429" width="139.38" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-170" value="2. PJ Bid. Reviu, Monitoring, Evaluasi, dan Urusan LHKPN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-170" value="2. PJ Bid. Reviu, Monitoring, Evaluasi, dan Urusan LHKPN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3167" y="502.75" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-171" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-165" target="NhKW_5sS3TAbHmaEk9oA-182">
+        <mxCell id="fboRldyLuEPARP4V9vse-171" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-165" target="fboRldyLuEPARP4V9vse-182">
           <mxGeometry x="-2692" y="574.5" width="100" height="100" as="geometry">
             <mxPoint x="-2692" y="674.5" as="sourcePoint" />
             <mxPoint x="-3174.879999999999" y="1495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-172" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-165" target="NhKW_5sS3TAbHmaEk9oA-176">
+        <mxCell id="fboRldyLuEPARP4V9vse-172" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-165" target="fboRldyLuEPARP4V9vse-176">
           <mxGeometry x="-2692" y="574.5" width="100" height="100" as="geometry">
             <mxPoint x="-2692" y="674.5" as="sourcePoint" />
             <mxPoint x="-2592" y="574.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-173" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-165" target="NhKW_5sS3TAbHmaEk9oA-169">
+        <mxCell id="fboRldyLuEPARP4V9vse-173" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-165" target="fboRldyLuEPARP4V9vse-169">
           <mxGeometry x="-2692" y="574.5" width="100" height="100" as="geometry">
             <mxPoint x="-2692" y="674.5" as="sourcePoint" />
             <mxPoint x="-2592" y="574.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-174" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-165" target="NhKW_5sS3TAbHmaEk9oA-170">
+        <mxCell id="fboRldyLuEPARP4V9vse-174" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-165" target="fboRldyLuEPARP4V9vse-170">
           <mxGeometry x="-2692" y="574.5" width="100" height="100" as="geometry">
             <mxPoint x="-2692" y="674.5" as="sourcePoint" />
             <mxPoint x="-2592" y="574.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-175" value="Penggunaan TIK dalam Sistem Pengawasan" style="rounded=1;fillColor=#F08E81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-175" value="Penggunaan TIK dalam Sistem Pengawasan" style="rounded=1;fillColor=#F08E81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3881" y="428.75" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-176" value="3. PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM" style="rounded=1;fillColor=#F5AF58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-176" value="3. PJ Bid. Organisasi, Sistem Pengawasan, Sistem Teknologi Informasi &amp;amp; Komunikasi Pengawasan, &amp;amp; Pengembangan SDM" style="rounded=1;fillColor=#F5AF58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3170" y="584.3499999999999" width="380" height="83.84" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-177" value="Website" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-177" value="Website" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3881" y="537" width="170" height="47.35" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-178" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-166" target="NhKW_5sS3TAbHmaEk9oA-177">
+        <mxCell id="fboRldyLuEPARP4V9vse-178" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-166" target="fboRldyLuEPARP4V9vse-177">
           <mxGeometry x="-3122" y="932.8999999999999" width="100" height="100" as="geometry">
             <mxPoint x="-3623.0646680413456" y="1064.5138439657615" as="sourcePoint" />
             <mxPoint x="-1237" y="1165.3652915509722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-179" value="Aplikasi" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-179" value="Aplikasi" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3880" y="615" width="169" height="45.35" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-180" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-166" target="NhKW_5sS3TAbHmaEk9oA-179">
+        <mxCell id="fboRldyLuEPARP4V9vse-180" value="" style="endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-166" target="fboRldyLuEPARP4V9vse-179">
           <mxGeometry x="-3112" y="942.8999999999999" width="100" height="100" as="geometry">
             <mxPoint x="-3612.999999999984" y="1071.3999999999999" as="sourcePoint" />
             <mxPoint x="-3453" y="1071.3999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-181" value="&lt;br&gt;I. Ketentuan Umum" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-181" value="&lt;br&gt;I. Ketentuan Umum" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3536.75" y="-213" width="153.5" height="151.5" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-182" value="4. PJ Wilayah" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-182" value="4. PJ Wilayah" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;fontSize=18;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3170" y="686" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-183" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-166" target="NhKW_5sS3TAbHmaEk9oA-175">
+        <mxCell id="fboRldyLuEPARP4V9vse-183" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-166" target="fboRldyLuEPARP4V9vse-175">
           <mxGeometry x="-3120.5" y="927.1199999999999" width="100" height="100" as="geometry">
             <mxPoint x="-3672.0000000000455" y="546.6199999999997" as="sourcePoint" />
             <mxPoint x="-3707" y="546.6199999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-184" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NhKW_5sS3TAbHmaEk9oA-1" source="NhKW_5sS3TAbHmaEk9oA-181" target="NhKW_5sS3TAbHmaEk9oA-185">
+        <mxCell id="fboRldyLuEPARP4V9vse-184" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fboRldyLuEPARP4V9vse-1" source="fboRldyLuEPARP4V9vse-181" target="fboRldyLuEPARP4V9vse-185">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3578.5294117647054" y="397.3878900350553" as="sourcePoint" />
             <mxPoint x="-3578.2999999999993" y="477.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhKW_5sS3TAbHmaEk9oA-185" value="Surat Rektor &lt;br&gt;821-2020&lt;br&gt;&lt;br&gt;Petunjuk Kerja Program Pengawasan SPI-UT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="NhKW_5sS3TAbHmaEk9oA-1">
+        <mxCell id="fboRldyLuEPARP4V9vse-185" value="Surat Rektor &lt;br&gt;821-2020&lt;br&gt;&lt;br&gt;Petunjuk Kerja Program Pengawasan SPI-UT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="fboRldyLuEPARP4V9vse-1">
           <mxGeometry x="-3664.5" y="17.159999999999997" width="409" height="416.5" as="geometry" />
         </mxCell>
       </root>
